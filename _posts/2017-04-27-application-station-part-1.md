@@ -18,6 +18,7 @@ At the origin point of our story we had written requirements documents, and had 
 * Generating a [Testing Plan Document]({{ site.url }}/documents/TestPlanDocument.pdf)
 * Delivering a finished product by the end of the semester
 
+
 ### Our Project
 
 Our project seemed like a doable one:  We were to build a web application that would be used by the UMW College of Education department.  Students in the student teaching program at UMW would be able to fill out applications on the website, and the faculty that oversees the process would be able to export that information.  The base goal was to reduce the overhead of needing to enter all of that information manually.  By digitizing the process, the overhead of the faculty would be significantly reduced.
