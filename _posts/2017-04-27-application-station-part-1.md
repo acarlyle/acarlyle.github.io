@@ -15,7 +15,7 @@ At the origin point of our story we had written requirements documents, and had 
 
 
 * Generating a [Project Plan Document]({{ site.url }}/documents/ProjectPlanDocument.pdf)
-* Generating a [Testing Plan Document]({{ site.url }}/documents/COE_Section2.pdf)
+* Generating a [Testing Plan Document]({{ site.url }}/documents/TestPlanDocument.pdf)
 * Delivering a finished product by the end of the semester
 
 ### Our Project
