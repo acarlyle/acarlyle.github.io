@@ -12,10 +12,19 @@ It's been a few weeks since we've taken on the task of building the College of E
 
 ### Usability Study
 
-The project required an intuitive dashboard to navigate.  In order to remedy this problem, each member on our team conducted an [independent usability study]({{ site.url }}/documents/Usabilitystudy_alec.pdf).    
+In order to remedy this problem, each member on our team conducted an [independent usability study]({{ site.url }}/documents/Usabilitystudy_alec.pdf).  The project required an intuitive dashboard to navigate, so I choose to focus my study on the admin dashboard.  An admin needed some sort of method to view and export all of the submitted applications.  How does one go about designing this to be intuitive?
+
+### The Prototype
+
+![usstudy.png]({{site.baseurl}}/img/usstudy.png)
+
+### The Finalized Software
+
+![exportdash.png]({{site.baseurl}}/assets/exportdash.png)
+
 
 
 
 ### Up Next
 
-A usuability GUI study, an interface prototype, and the real deal.
+A rundown of the finalized College of Education Application Station.
