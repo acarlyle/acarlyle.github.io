@@ -12,11 +12,10 @@ It's been a few weeks since we've taken on the task of building the College of E
 
 ### Usability Study
 
-In order to remedy this problem, each member on our team conducted an independent 
+In order to remedy this problem, each member on our team conducted an [independent usability study]({{ site.url }}/documents/Usabilitystudy_alec.pdf).  
 
 
 
 ### Up Next
 
 A usuability GUI study, an interface prototype, and the real deal.
-
