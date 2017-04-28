@@ -3,6 +3,8 @@ layout: post
 date: '2017-04-27 22:42 -0400'
 author: Alec
 published: false
+categories: UMW
+excerpt: 'Bork: A game engine that generates simple Text Adventures'
 ---
 ## Bork: A game engine that generates simple Text Adventures
 
