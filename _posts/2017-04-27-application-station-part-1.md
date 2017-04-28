@@ -5,6 +5,6 @@ author: Alec
 published: true
 categories: UMW
 ---
-## Human Computer Interaction 
+## A Vision in the Fog
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
