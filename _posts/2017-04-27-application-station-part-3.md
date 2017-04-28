@@ -2,7 +2,8 @@
 layout: post
 date: '2017-04-27 21:24 -0400'
 author: Alec
-published: false
+published: true
+categories: UMW
 ---
 ## Sum Result
 
