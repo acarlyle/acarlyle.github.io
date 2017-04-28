@@ -7,4 +7,4 @@ categories: UMW
 ---
 ## A Vision of Words
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+What better way to end an educational journey than by using all of what we've learned to build real software for a real client?  
