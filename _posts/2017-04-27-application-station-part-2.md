@@ -18,7 +18,11 @@ In order to remedy this problem, each member on our team conducted an [independe
 
 ### The Prototype
 
+
+
 ![usstudy.png]({{site.baseurl}}/img/usstudy.png)
+
+
 
 I choose to go with a minimalist approach.  Thankfully, I recieved some helpful comments on my prototype from my focus group.  Their collective suggestions included:
 
@@ -30,11 +34,20 @@ I choose to go with a minimalist approach.  Thankfully, I recieved some helpful 
 ### The Finalized Software
 
 In order to address this feedback, I added a home page to the admin dash to clarify what each tab means:
+
+
+
 ![adminhome.png]({{site.baseurl}}/img/adminhome.png)
+
+
 
 And here is the final version of the Export Application interface:
 
+
+
 ![exportdash.png]({{site.baseurl}}/assets/exportdash.png)
+
+
 
 If I had to create this interface again, I would create the table using Bootstrap checkboxes.  It's apparent to everyone that you can check a checkbox; it may not be clear that you can click on an individual row of the table.
 
