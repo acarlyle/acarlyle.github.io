@@ -28,4 +28,8 @@ In this early stage, we thought we had plenty of time to take on the world.  And
 
 From writing the Project Plan, we learned that there are a lot of intricacies involved in our project, especially with the three seperate application forms.  We needed to schedule frequent meetings with our client in order to ensure complete understanding of the system.
 
-If we needed to do this process again, it would be a good idea to immediately prioritze requirements and decide as a team which requirements wouldn't make the cut.
+If we needed to do this process again, it would be a good idea to immediately prioritze requirements and decide as a team which requirements wouldn't make the cut.  It also wouldn't hurt to have everyone familiarize themselves with the technologies we would be using together.
+
+### Up Next
+
+A usuability study, an interface, and the real deal.
