@@ -6,6 +6,7 @@ published: true
 categories: UMW
 excerpt: 'Bork: A game engine that generates simple Text Adventures'
 ---
+![zorkSp00k.png]({{site.baseurl}}/assets/zorkSp00k.png)
 ## Bork: A game engine that generates simple Text Adventures
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
