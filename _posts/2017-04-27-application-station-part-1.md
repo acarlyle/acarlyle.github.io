@@ -5,6 +5,8 @@ author: Alec
 published: true
 categories: UMW
 ---
+![planImg.png]({{site.baseurl}}/img/planImg.png)
+
 ## A Vision of Words
 
 What better way to end an educational journey than by using all of what we've learned to build real software for a real client?  This posts highlights the inception of that process: generating documentation to build the system.
@@ -26,4 +28,4 @@ In this early stage, we thought we had plenty of time to take on the world.  And
 
 From writing the Project Plan, we learned that there are a lot of intricacies involved in our project, especially with the three seperate application forms.  We needed to schedule frequent meetings with our client in order to ensure complete understanding of the system.
 
-If we needed to do this process again, it would be a good idea to immediately prioritze requirements and decide as a team which requirements wouldn't make the cut.  
+If we needed to do this process again, it would be a good idea to immediately prioritze requirements and decide as a team which requirements wouldn't make the cut.
