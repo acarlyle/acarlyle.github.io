@@ -5,6 +5,6 @@ author: Alec
 published: false
 categories: UMW
 ---
-## A New Post
+## User Interface: a Grand Experiment
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
