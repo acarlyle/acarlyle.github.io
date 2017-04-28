@@ -2,7 +2,7 @@
 layout: post
 date: '2017-04-27 22:35 -0400'
 author: Alec
-published: false
+published: true
 categories: UMW
 excerpt: 'Up, up, and up you''ll go, where will you stop - Dr. Finlayson - no!!!'
 ---
