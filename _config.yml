@@ -71,12 +71,12 @@ owner:
 prose:
   metadata:
     _posts:
-      - name: "category"
-        field:
-          element: "hidden"
-          value: "articles"
+     - name: "category"
+       field:
+         element: "hidden"
+         value: "articles"
     _posts/blog:
-      - name: "category"
+     - name: "category"
        field:
         element: "select"
         label: "Select Category"
@@ -88,4 +88,3 @@ prose:
             value: "berserkvania"
           - name: "Tutorial"
             value: "tutorial"
-  
