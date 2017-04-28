@@ -7,4 +7,16 @@ categories: UMW
 ---
 ## Human Computer Interaction 
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+It's been a few weeks since we've taken on the task of building the College of Education Application Station, but there was a problem.  We had no interface.    
+
+
+### Usability Study
+
+In order to remedy this problem, each member on our team conducted an independent 
+
+
+
+### Up Next
+
+A usuability GUI study, an interface prototype, and the real deal.
+
