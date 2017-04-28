@@ -8,7 +8,6 @@ excerpt: >-
   What better way to end an educational journey than by using all of what we've
   learned to build real software for a real client?  This posts highlights the
   inception of that process: generating documentation to build the system.
-  ![planImg.png]({{site.baseurl}}/img/planImg.png)
 ---
 ## A Vision of Words
 
