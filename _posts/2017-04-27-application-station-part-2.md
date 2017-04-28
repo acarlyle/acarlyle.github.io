@@ -22,8 +22,6 @@ In order to remedy this problem, each member on our team conducted an [independe
 
 ![usstudy.png]({{site.baseurl}}/img/usstudy.png)
 
-
-
 I choose to go with a minimalist approach.  Thankfully, I recieved some helpful comments on my prototype from my focus group.  Their collective suggestions included:
 
 * Deleting and Exporting forms should be on separate tabs
