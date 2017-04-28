@@ -76,7 +76,7 @@ prose:
           element: "hidden"
           value: "articles"
     _posts/blog:
-      - name: "category"
+     - name: "category"
        field:
         element: "select"
         label: "Select Category"
@@ -88,4 +88,3 @@ prose:
             value: "berserkvania"
           - name: "Tutorial"
             value: "tutorial"
-  
