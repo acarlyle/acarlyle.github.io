@@ -3,8 +3,8 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
+title: hecodes
+email: cyheddie@gmail.com
 description: A simple and awesome blog theme powered by jekyll.
 url: # the base hostname & protocol for your site
 
