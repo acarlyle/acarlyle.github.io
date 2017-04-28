@@ -25,7 +25,7 @@ Our project seemed like a doable one:  We were to build a web application that w
 In this early stage, we thought we had plenty of time to take on the world.  And so, we assembled together to make sense of the following requirements document and put together a plan for our project.
 
 ![COE_Section2.pdf]({{site.baseurl}}/documents/COE_Section2.pdf)
-[get the PDF]({{ site.url }}/documents/COE_Section2.pdf)
+[view the PDF]({{ site.url }}/documents/COE_Section2.pdf)
 
 From writing the Project Plan, we learned that there are a lot of intricacies involved in our project, especially with the three seperate application forms.  We needed to schedule frequent meetings with our client in order to ensure complete understanding of the system.
 
