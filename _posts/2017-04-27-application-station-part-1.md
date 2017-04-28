@@ -31,4 +31,4 @@ If we needed to do this process again, it would be a good idea to immediately pr
 
 ### Up Next
 
-A usuability GUI study, an interface, and the real deal.
+A usuability GUI study, an interface prototype, and the real deal.
