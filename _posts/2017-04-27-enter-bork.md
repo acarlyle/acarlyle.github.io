@@ -7,6 +7,6 @@ categories: UMW
 ---
 ![zorkSp00k.png]({{site.baseurl}}/img/zorkSp00k.png)
 
-## A demake of Zork that functions as a simple text adventure game engine.
+## A simple text adventure game engine that runs demakes of Zork.
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
