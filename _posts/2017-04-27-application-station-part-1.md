@@ -22,9 +22,8 @@ At the origin point of our story we had written requirements documents, and had 
 
 Our project seemed like a doable one:  We were to build a web application that would be used by the UMW College of Education department.  Students in the student teaching program at UMW would be able to fill out applications on the website, and the faculty that oversees the process would be able to export that information.  The base goal was to reduce the overhead of needing to enter all of that information manually.  By digitizing the process, the overhead of the faculty would be significantly reduced.
 
-In this early stage, we thought we had plenty of time to take on the world.  And so, we assembled together to make sense of the following requirements document and put together a plan for our project.
+In this early stage, we thought we had plenty of time to take on the world.  And so, we assembled together to make sense of the [provided requirements document]({{ site.url }}/documents/COE_Section2.pdf) and put together a plan for our project.
 
-![COE_Section2.pdf]({{site.baseurl}}/documents/COE_Section2.pdf)
 [view the PDF]({{ site.url }}/documents/COE_Section2.pdf)
 
 From writing the Project Plan, we learned that there are a lot of intricacies involved in our project, especially with the three seperate application forms.  We needed to schedule frequent meetings with our client in order to ensure complete understanding of the system.
