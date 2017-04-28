@@ -69,22 +69,38 @@ owner:
   codepen: #username
   
 prose:
+  rooturl: ''
+  siteurl: 'http://www.hywel.me'
+  media: 'assets'
   metadata:
     _posts:
-     - name: "category"
-       field:
-         element: "hidden"
-         value: "articles"
-    _posts/blog:
-     - name: "category"
-       field:
-        element: "select"
-        label: "Select Category"
-        placeholder: "Choose Category"
-        options:
-          - name: "UMW"
-            value: "umw"
-          - name: "Berserkvania"
-            value: "berserkvania"
-          - name: "Tutorial"
-            value: "tutorial"
+      - name: "layout"
+        field:
+          label: "layout"
+          element: "text"
+          value: "post"
+      - name: "date"
+        field:
+          label: "date"
+          element: "text"
+          value: "CURRENT_DATETIME"
+      - name: "author"
+        field:
+          label: "author"
+          element: "text"
+          value: "Hywel"
+      - name: "categories"
+        field:
+          label: "categories"
+          element: "text"
+          placeholder: "Enter categories"
+      - name: "excerpt"
+        field:
+          label: "excerpt"
+          element: "text"
+          placeholder: "Enter excerpt"
+      - name: "meta"
+        field:
+          label: "meta"
+          element: "text"
+          placeholder: "Enter metadata"
