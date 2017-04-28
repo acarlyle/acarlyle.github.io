@@ -14,8 +14,8 @@ excerpt: >-
 At the origin point of our story we had written requirements documents, and had just then been placed on our **implementation** teams.  This the team that would be responsible for a number of items, including:
 
 
-* Generating a Project Plan Document
-* Generating a Testing Plan document
+* Generating a [Project Plan Document]({{ site.url }}/documents/ProjectPlanDocument.pdf)
+* Generating a [Testing Plan Document]({{ site.url }}/documents/COE_Section2.pdf)
 * Delivering a finished product by the end of the semester
 
 ### Our Project
