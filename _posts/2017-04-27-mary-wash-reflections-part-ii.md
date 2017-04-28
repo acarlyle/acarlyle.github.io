@@ -2,7 +2,7 @@
 layout: post
 date: '2017-04-27 21:03 -0400'
 author: Alec
-published: false
+published: true
 categories: UMW
 ---
 ## User Interface: a Grand Experiment
