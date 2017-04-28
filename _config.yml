@@ -88,7 +88,7 @@ prose:
         field:
           label: "author"
           element: "text"
-          value: "Hywel"
+          value: "Alec"
       - name: "categories"
         field:
           label: "categories"
