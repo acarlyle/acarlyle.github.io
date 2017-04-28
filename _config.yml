@@ -71,10 +71,10 @@ owner:
 prose:
   metadata:
     _posts:
-      - name: "category"
-        field:
-          element: "hidden"
-          value: "articles"
+     - name: "category"
+       field:
+         element: "hidden"
+         value: "articles"
     _posts/blog:
      - name: "category"
        field:
