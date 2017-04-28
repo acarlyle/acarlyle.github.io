@@ -18,3 +18,5 @@ At this point we had written requirements documents, and had just then been plac
 * Generating a Testing Plan document
 * Delivering a finished product by the end of the semester
 
+In this early stage, we thought we had plenty of time to take on the world.  And so, we assembled together to make sense of the following requirements documents and put together a plan for our project.
+
