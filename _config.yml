@@ -67,3 +67,25 @@ owner:
   flickr: #username
   500px: #username
   codepen: #username
+  
+prose:
+  metadata:
+    _posts:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "articles"
+    _posts/blog:
+      - name: "category"
+       field:
+        element: "select"
+        label: "Select Category"
+        placeholder: "Choose Category"
+        options:
+          - name: "UMW"
+            value: "umw"
+          - name: "Berserkvania"
+            value: "berserkvania"
+          - name: "Tutorial"
+            value: "tutorial"
+  
