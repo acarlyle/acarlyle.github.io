@@ -7,6 +7,4 @@ categories: UMW
 ---
 ![appstat.png]({{site.baseurl}}/img/appstat.png)
 
-## Sum Result
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+## A form management system for the College of Education Student Teaching Program.
