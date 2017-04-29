@@ -11,7 +11,7 @@ excerpt: >-
 ---
 ### Usability Study
 
-In order to remedy this problem, each member on our team conducted an [independent usability study]({{ site.url }}/documents/Usabilitystudy_alec.pdf).  The project required an intuitive dashboard to navigate, so I choose to focus my study on the admin dashboard.  An admin needed some sort of method to view and export all of the submitted applications.  How does one go about designing this to be intuitive?
+In order to remedy the lack of a GUI, each member on our team conducted an independent usability study.  The project required an intuitive dashboard to navigate, so I choose to focus [my study]({{ site.url }}/documents/Usabilitystudy_alec.pdf) on the admin dashboard.  An admin needed some sort of method to view and export all of the submitted applications.  How does one go about designing this to be intuitive?  I had to research what was important in designing an interface.  An important takeaway from this research is that you should never change the **user model**.  As in, I'll need both an export and a delete button.  I shouldn't make the delete button green and the export button red because the user model dictates that something dangerous should be red.
 
 ### The Prototype
 
