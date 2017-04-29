@@ -20,7 +20,7 @@ The project specifications were simple.  We needed to create a GBA game that inc
 
 Writing a game for the GBA is no walk in the park.  Not only is it lacking an operating system, but it has comparably low specs to the smartphones of today.  
 
-If I had to do this project again, I wouldn't do anything differently, because it's awesome.
+If I had to do this project again, I would want to do more with it.  I loved working on it, and I'd want to take it to the next level.  It was difficult to put together, and I feel like a full-sized GBA game would be  quite the challenge.
 
 
 
