@@ -13,6 +13,8 @@ One of my favorite projects I made while at Mary Wash was bork.  I love ye old t
 
 ### Design
 
+![zorkclassdiagram.png]({{site.baseurl}}/img/zorkclassdiagram.png)
+
 The engine was written entirely in Java.  Not only did the assignment introduce Object-Oriented concepts, but it was the first project where we had to work with other people using git and linux.  It can read in any .txt file formatted as so:
 
 	Doghouse
@@ -68,7 +70,3 @@ The engine was written entirely in Java.  Not only did the assignment introduce 
     
     
 Special features of this engine include locked doors, combat, and enemy NPC's.  Instructions for running the engine with custom/provided dungeons can be found on the project's [repository](https://github.com/acarlyle/bork).
-
-
-
-![zorkclassdiagram.png]({{site.baseurl}}/img/zorkclassdiagram.png)
