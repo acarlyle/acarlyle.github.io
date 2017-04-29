@@ -12,7 +12,7 @@ categories: UMW
 
 ***Davies Jump*** is a endless jumper designed for the GBA.  It stars the infamous Professor Davies as he ascends into space all while trying to avoid the clutches of Dr. Finlayson, a floating space rock.  It isn't difficult to set up if you follow the instructions on the [repository](https://github.com/acarlyle/davies-jump) page.  
 
-## The Project
+## The Computer Systems and Architecture Project
 
 The project specifications were simple.  We needed to create a GBA game that included:
 
