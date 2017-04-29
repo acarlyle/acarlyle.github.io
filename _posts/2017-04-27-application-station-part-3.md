@@ -28,30 +28,30 @@ By far the largest project undertaken at UMW, I'm proud to say that we did manag
 
 		Flask==0.12
 		Flask-Bootstrap==3.3.7.1
-Flask-Login==0.4.0
-Flask-Mail==0.9.1
-Flask-Migrate==2.0.3
-Flask-SQLAlchemy==2.2
-Flask-Script==2.0.5
-Flask-WTF==0.14.2
-Jinja2==2.9.5
-Mako==1.0.6
-MarkupSafe==1.0
-MySQL-python==1.2.5
-SQLAlchemy==1.1.8
-WTForms==2.1
-Werkzeug==0.12.1
-alembic==0.9.1
-argparse==1.2.1
-blinker==1.4
-click==6.7
-dominate==2.3.1
-itsdangerous==0.24
-python-dateutil==2.6.0
-python-editor==1.0.3
-six==1.10.0
-sqlalchemy-datatables==1.2.0
-visitor==0.1.3
-wsgiref==0.1.2
+		Flask-Login==0.4.0
+		Flask-Mail==0.9.1
+		Flask-Migrate==2.0.3
+		Flask-SQLAlchemy==2.2
+		Flask-Script==2.0.5
+		Flask-WTF==0.14.2
+		Jinja2==2.9.5
+		Mako==1.0.6
+		MarkupSafe==1.0
+		MySQL-python==1.2.5
+		SQLAlchemy==1.1.8
+		WTForms==2.1
+		Werkzeug==0.12.1
+		alembic==0.9.1
+		argparse==1.2.1
+		blinker==1.4
+		click==6.7
+		dominate==2.3.1
+		itsdangerous==0.24
+		python-dateutil==2.6.0
+		python-editor==1.0.3
+		six==1.10.0
+		sqlalchemy-datatables==1.2.0
+		visitor==0.1.3
+		wsgiref==0.1.2
 
  
