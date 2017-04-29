@@ -1,5 +1,6 @@
 ---
 layout: page
-title: Resume
+title: resume.html
+published: true
 ---
 Here's a link to a PDF of [my resume](/documents/AlecCarlyle.Resume.pdf).
