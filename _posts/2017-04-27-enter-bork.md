@@ -69,4 +69,4 @@ The engine was written entirely in Java.  Not only did the assignment introduce 
 	===
     
     
-Special features of this engine include locked doors, combat, and enemy NPC's.  Instructions for running the engine with custom/provided dungeons can be found on the project's [repository](https://github.com/acarlyle/bork).
+Special features of this engine include locked doors, combat, and enemy NPC's.  Instructions for running the engine with custom/provided dungeons can be found on the project's [repository](https://github.com/acarlyle/bork).  If I had to make this project again, I would of course add more features to the engine.  There's limitless possibilites here, but I'd really want to include rooms that can rotate and enemies that can roam the dungeon of their own accord.
