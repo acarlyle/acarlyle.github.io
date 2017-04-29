@@ -19,7 +19,7 @@ The engine was written entirely in Java.  Not only did the assignment introduce 
 
 Save file format:
 
-'Zork v1 save data
+`Zork v1 save data
 Dungeon file: /home/acarlyle/borkProject/src/edu/umw/acarlyle/bork/doghouse.bork
 Room states:
 Cell
@@ -37,7 +37,7 @@ Inventory: Candle,CrumpledPieceOfPaper
 Health: 5
 Str: 12
 Def: 10
-Score: 20'
+Score: 20`
 
 ![zorkclassdiagram.png]({{site.baseurl}}/img/zorkclassdiagram.png)
 
