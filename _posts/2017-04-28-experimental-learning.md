@@ -18,7 +18,7 @@ I was happy with learning how to use Bootstrap this semester, and HTML/CSS is st
 > What problems or struggles did you encounter in this experience,
 if any? If so, how did you solve them?
 
-I had some huge problems with half of my team not contributing to the project.  There isn't much you can do in the situation; it's an issue with group projects in college.  However, my other team member and I started to delegate some tasks for the non-contributing members near the end of the project cycle so that the two of us wouldn't have to do everything.  It seemed like the only thing we could have done here was assign smaller, less-important work in case it wouldn't get done.    
+I had some huge problems with half of my team not contributing to the project.  There isn't much you can do in the situation, honestly.  However, my other team member and I started to delegate some tasks for the non-contributing members near the end of the project cycle so that the two of us wouldn't have to do everything.  It seemed like the only thing we could have done here was assign smaller, less-important work.    
 
 > In what areas would you most like to continue to strengthen your
 knowledge or skills?
