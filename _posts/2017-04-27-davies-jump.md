@@ -23,13 +23,13 @@ The project specifications were simple.  We needed to create a GBA game that inc
 Writing a game for the GBA is no walk in the park.  Not only is it lacking an operating system, but it has comparably low specs to the smartphones of today.  The act of writing games for the GBA is low level programming at its core.  You are required to set bits to certain values in order to access certain visual functionalities.  For example, there are 6 different graphics modes.  One of these modes allows you to have 2 tiled backgrounds, which are rotatable and scalable.  Another mode offers 3 tiled backgrounds, but only one can be rotated and scaled.  The first 3 bits of the display control register control which mode we are using.  With this in mind, the possibilites of the first 3 bits include:
 
 		000
-        001
-        010
-        011
-        100
-        101
-        110
-        100
+        	001
+        	010
+        	011
+        	100
+        	101
+        	110
+        	100
         
 These possibilities allow for each of the different modes to be set, and then some.  Knowing that the display control register is just a memory address that directly needs to be modified was critical to my understanding of how Computer Hardware is working together with memory.  
 
