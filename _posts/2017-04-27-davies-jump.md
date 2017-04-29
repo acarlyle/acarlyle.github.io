@@ -20,7 +20,7 @@ The project specifications were simple.  We needed to create a GBA game that inc
 * A minimum of 2 sprites
 * 2 functions that were written in assembly code
 
-Writing a game for the GBA is no walk in the park.  Not only is it lacking an operating system, but it has comparably low specs to the smartphones of today.  
+Writing a game for the GBA is no walk in the park.  Not only is it lacking an operating system, but it has comparably low specs to the smartphones of today.    
 
 ## Reflections
 
