@@ -17,25 +17,58 @@ One of my favorite projects I made while at Mary Wash was bork.  I love ye old t
 
 The engine was written entirely in Java.  Not only did the assignment introduce Object-Oriented concepts, but it was the first project where we had to work with other people using git and linux.  It can read in any .txt file formatted as so:
 
-	Zork v1 save data
-	Dungeon file: /home/acarlyle/borkProject/src/edu/umw/acarlyle/bork/doghouse.bork
-	Room states:
-	Cell
-	beenHere=true
-	Enemies: Bad Man
-	---
-	Flooded Stair
-	beenHere=false
-	Contents: CrustyKey
-	---
-	===
-	Adventurer:
-	Current room: Cell
-	Inventory: Candle,CrumpledPieceOfPaper
-	Health: 5
-	Str: 12
-	Def: 10
-	Score: 20
+    Doghouse
+    Zork v1.0
+    ===
+    Enemies:
+    Bad Man
+    ***
+    “Definitely not goodman.” //description
+    ***
+    isHostile //or isNotHostile
+    150 // health
+    15//Str
+    10 //Def
+    2 // points
+    Inventory: Rope,Candle
+    ***
+    “This is how we talk down south.”
+    “I can say more than one thing.”
+    "Have you ever been Weast"
+    ***
+    ---
+    ===
+    Items:
+    CrumpledPieceOfPaper
+    1 //weight
+    5 //str
+    5 //def
+    read[AddScore(3),Wound(-1)]:WELCOME TO THE DOGHOUSE (BARKING).
+    examine:It appears to be....a piece of paper..?  With writing on it..?
+    ---
+    Candle
+    3
+    0
+    0
+    wave[Unlock(Moon Hall)]:You make spooky
+    ---
+    ===
+    Rooms:
+    Cell
+    Contents: Candle
+    Enemies: Bad Man
+    You are in a small, windowless room.  There is an empty mattress resting on the floor. A
+    flickering candle is illuminating the cell door, which is hanging ajar.
+    ---
+    ===
+    Exits:
+    Cell
+    n
+    Moon Hall
+    ---
+    ===
+    
+This engine also features locked doors, combat, and enemy NPC's.  
 
 ![zorkclassdiagram.png]({{site.baseurl}}/img/zorkclassdiagram.png)
 
