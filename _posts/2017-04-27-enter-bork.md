@@ -23,26 +23,26 @@ The engine was written entirely in Java.  Not only did the assignment introduce 
 	Enemies:
 	Bad Man
 	***
-	“Definitely not goodman.” /*description*/
+	“Definitely not goodman.”
 	***
-	isHostile ////or isNotHostile
-	150 // health
-	15//Str
-	10 //Def
-	2 // points
+	isHostile 
+	150
+	15
+	10 
+	2 
 	Inventory: Rope,Candle
 	***
 	“This is how we talk down south.”
 	“I can say more than one thing.”
-	"Have you ever been Weast"
+	”Have you ever been Weast.”
 	***
 	---
 	===
 	Items:
 	CrumpledPieceOfPaper
-	1 //weight
-	5 //str
-	5 //def
+	1 
+	5 
+	5 
 	read[AddScore(3),Wound(-1)]:WELCOME TO THE DOGHOUSE (BARKING).
 	examine:It appears to be....a piece of paper..?  With writing on it..?
 	---
