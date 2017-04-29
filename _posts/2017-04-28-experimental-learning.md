@@ -34,5 +34,3 @@ I still have not learned to be assertive enough.  While it's true that I did bec
 how?
 
 No, it has not.
-
-
