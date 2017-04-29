@@ -61,6 +61,4 @@ The project is fully buildable using instructions and scripts detailed on our [r
         
 ### Reflections 
 
-I'm happy to report that we managed to implement all of the necessary requirements.  We developed the site with Scrum.  If we had to do this all again, it would help if we had gathered together as a team and learned the new technologies we would be using together so that everyone would be on the same page.  It's difficult as students to come together and take on an agile development cycle, but we certainly managed to pull off a slick website that can be expanded upon by students in the future with more features and polish. 
-
- 
+I'm happy to report that we managed to implement all of the necessary requirements.  We developed the site with Scrum.  If we had to do this all again, it would help if we had gathered together as a team and learned the new technologies we would be using together so that everyone would be on the same page.  It's difficult as students to come together and take on an agile development cycle, but we certainly managed to pull off a slick website that can be expanded upon by students in the future with more features and polish.
