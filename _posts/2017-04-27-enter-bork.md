@@ -4,9 +4,17 @@ date: '2017-04-27 22:42 -0400'
 author: Alec
 published: true
 categories: UMW
+excerpt: ''
+meta: ''
 ---
 ![zorkSp00k.png]({{site.baseurl}}/img/zorkSp00k.png)
 
-## A simple text adventure game engine that runs demakes of Zork.
+## A text adventure game engine that runs demakes of Zork.
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+One of my favorite projects I made while at Mary Wash was bork.  I love ye old text adventures of yore, and creating an engine that can generate such games was basically the coolest thing ever.  This was created way back in Object-Oriented Design, which was young in my Computer Science endeavors.  
+
+### Design
+
+The engine was written entirely in Java.
+
+[Class Diagram](https://www.draw.io/#G0Bwu48hjdqyLQWmc3OC10Z1JnUTA)
