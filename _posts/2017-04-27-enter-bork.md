@@ -15,4 +15,6 @@ One of my favorite projects I made while at Mary Wash was bork.  I love ye old t
 
 ### Design
 
-The engine was written entirely in Java.  
+The engine was written entirely in Java.  Not only did it introduce Object-Oriented concepts, but it was the first project where we had to work with other people using git and linux.  
+
+![factory.png]({{site.baseurl}}/img/Zork Class Diagram.png)
