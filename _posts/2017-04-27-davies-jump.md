@@ -8,6 +8,20 @@ categories: UMW
 ![jumpDaviesJump.png]({{site.baseurl}}/img/jumpDaviesJump.png)
 ## A game created for GBA hardware, runnable on GBA emulators.  Up, up, and up you'll go, where will you stop - Dr. Finlayson - no!!! 
 
-***Davies Jump*** is a endless jumper designed for the GBA.  It stars the infamous Professor Davies as he ascends upwards into space all while trying to avoid the clutches of Dr. Finlayson, a floating space rock.  
+***Davies Jump*** is a endless jumper designed for the GBA.  It stars the infamous Professor Davies as he ascends into space all while trying to avoid the clutches of Dr. Finlayson, a floating space rock.  It isn't too bad to set up if you follow the instructions on the [repository](https://github.com/acarlyle/davies-jump) page.  
+
+## The Project
+
+The project specifications were simple.  We needed to create a GBA game that included:
+
+* A scolling, tiled background
+* A minimum of 2 sprites
+* 2 functions that were written in assembly code
+
+Writing a game for the GBA is no walk in the park.  Not only is it lacking an operating system, but it has comparably low specs to the smartphones of today.  
+
+If I had to do this project again, I wouldn't do anything differently, because it's awesome.
+
+
 
 
