@@ -8,7 +8,7 @@ categories: UMW
 > What was the single most useful or meaningful thing you learned
 in this experience?
 
-The **most** useful thing that I learned from this course is how to build a website.  In Application of Databases, I learned how to build a website and several different technologies commonly used when doing so.  However, we didn't learn how to put a large-scale project together - until now.  Thanks to the ambitious nature of my group, we didn't use the rudimentary approach found in Databases; we built a CRUD application from the ground up taking full advantage of Flask.   
+The **most** useful thing that I learned from this course is how to properly build a website.  In Application of Databases, I did learn how to build a website and several different technologies commonly used when doing so.  However, we didn't learn how to put a large-scale project together - until now.  Thanks to the ambitious nature of my group, we didn't use the rudimentary approach found in Databases; we built a CRUD application from the ground up taking full advantage of Flask.   
 
 > What knowledge or skills acquired or developed while in college
 were most useful in this experience?
