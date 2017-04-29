@@ -4,8 +4,6 @@ date: '2017-04-27 22:42 -0400'
 author: Alec
 published: true
 categories: UMW
-excerpt: ''
-meta: ''
 ---
 ![zorkSp00k.png]({{site.baseurl}}/img/zorkSp00k.png)
 
@@ -69,7 +67,6 @@ The engine was written entirely in Java.  Not only did the assignment introduce 
 	===
     
     
-Special features of this engine include locked doors, combat, and enemy NPC's.  Instructions for running the engine can be found on the project's   
+Special features of this engine include locked doors, combat, and enemy NPC's.  Instructions for running the engine can be found on the project's [repository](https://github.com/acarlyle/bork).  
 
 ![zorkclassdiagram.png]({{site.baseurl}}/img/zorkclassdiagram.png)
-
