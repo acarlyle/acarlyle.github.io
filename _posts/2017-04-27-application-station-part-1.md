@@ -29,7 +29,7 @@ From writing the Project Plan, we learned that there are a lot of intricacies in
 
 ### Reflections
 
-If we needed to do this process again, it would be a good idea to immediately prioritze requirements and decide as a team which requirements wouldn't make the cut.  It also wouldn't hurt to have everyone familiarize themselves with the technologies we would be using together.
+If we needed to do this process again, it would be a good idea to immediately prioritze requirements and decide as a team which requirements wouldn't make the cut.
 
 ### Up Next
 
