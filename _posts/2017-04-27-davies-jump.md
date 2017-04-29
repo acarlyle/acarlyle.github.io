@@ -10,4 +10,6 @@ categories: UMW
 
 ## Up, up, and up you'll go, where will you stop - Dr. Finlayson - no!!!
 
+***Davies Jump*** is a endless jumper designed for the GBA.  It stars the infamous Professor Davies as he ascends upwards into space all while trying to avoid the clutches of Dr. Finlayson, a floating space rock.  
+
 
