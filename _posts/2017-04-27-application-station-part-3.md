@@ -26,8 +26,8 @@ By far the largest project undertaken at UMW, I'm proud to say that we did manag
 * Flask
 * SQLAlchemy with MySQL
 
-`Flask==0.12
-Flask-Bootstrap==3.3.7.1
+		Flask==0.12
+		Flask-Bootstrap==3.3.7.1
 Flask-Login==0.4.0
 Flask-Mail==0.9.1
 Flask-Migrate==2.0.3
@@ -52,6 +52,6 @@ python-editor==1.0.3
 six==1.10.0
 sqlalchemy-datatables==1.2.0
 visitor==0.1.3
-wsgiref==0.1.2`
+wsgiref==0.1.2
 
  
