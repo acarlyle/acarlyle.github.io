@@ -27,6 +27,8 @@ By far the largest project undertaken at UMW, I'm proud to say that we did manag
 * SQLAlchemy with MySQL
 
 A quick look at our requirements.txt file:
+
+
 		Flask==0.12
 		Flask-Bootstrap==3.3.7.1
 		Flask-Login==0.4.0
