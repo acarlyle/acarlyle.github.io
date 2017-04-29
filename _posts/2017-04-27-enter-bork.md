@@ -23,7 +23,7 @@ The engine was written entirely in Java.  Not only did the assignment introduce 
 	Enemies:
 	Bad Man
 	***
-	“Definitely not goodman.” //description
+	“Definitely not goodman.” /*description*/
 	***
 	isHostile ////or isNotHostile
 	150 // health
