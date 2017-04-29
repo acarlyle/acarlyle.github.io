@@ -15,6 +15,4 @@ One of my favorite projects I made while at Mary Wash was bork.  I love ye old t
 
 ### Design
 
-The engine was written entirely in Java.
-
-[Class Diagram](https://www.draw.io/#G0Bwu48hjdqyLQWmc3OC10Z1JnUTA)
+The engine was written entirely in Java.  
