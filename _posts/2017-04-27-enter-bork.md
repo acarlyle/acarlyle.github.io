@@ -25,7 +25,7 @@ The engine was written entirely in Java.  Not only did the assignment introduce 
 	***
 	“Definitely not goodman.” //description
 	***
-	isHostile //or isNotHostile
+	isHostile ////or isNotHostile
 	150 // health
 	15//Str
 	10 //Def
