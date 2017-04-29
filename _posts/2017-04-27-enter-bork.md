@@ -69,7 +69,7 @@ The engine was written entirely in Java.  Not only did the assignment introduce 
 	===
     
     
-Special features of this engine include locked doors, combat, and enemy NPC's.  
+Special features of this engine include locked doors, combat, and enemy NPC's.  Instructions for running the engine can be found on the project's   
 
 ![zorkclassdiagram.png]({{site.baseurl}}/img/zorkclassdiagram.png)
 
